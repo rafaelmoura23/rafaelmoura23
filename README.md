@@ -1,5 +1,14 @@
 ### Hi there, my name's Rafael Moura👋
 
+
+
+<img src="https://github-profile-trophy.vercel.app/?username={rafaelmoura23}&theme={default}" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoura23&theme=dracula"/>
+
+
+
+
 I'm Learning now... 
 <div style="display: inline_block"><br>
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
