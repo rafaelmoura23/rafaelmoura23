@@ -1,7 +1,12 @@
 ### Hi there, my name's Rafael Moura👋
 
 
+
+
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoura23&theme=dracula"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=dracula"/>
+
 
 
 
