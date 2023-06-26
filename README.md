@@ -27,7 +27,7 @@ Contact...
 <a href="https://www.linkedin.com/in/rafael-m-8971691b8/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 
 
-
+![snake gif](https://github.com/rafaelmoura23/rafaelmoura23/blob/output/github-contribution-grid-snake.svg)
           
 
  
