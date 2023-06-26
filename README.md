@@ -1,34 +1,40 @@
-### Hi there, my name's Rafael Moura👋
+<div>
+  <h1 align="center">
+    Hi there, my name's Rafael Moura!
+  </h1>
 
-
-
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoura23&theme=dracula"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=dracula"/>
-
-
-
-
-
-I'm Learning now... 
-<div style="display: inline_block"><br>
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p align="center">
+   - 🔭 I’m currently working on ... <br>
+- 🌱 I’m currently learning ... <br>
+- 👯 I’m looking to collaborate on ... <br>
+- 🤔 I’m looking for help with ... <br>
+- 💬 Ask me about ... <br>
+- 📫 How to reach me: ... <br>
+- 😄 Pronouns: ... <br>
+- ⚡ Fun fact: ... <br>
+  </p>
+  
 </div>
 
-##
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoura23&theme=dracula"/>   
+</div>
 
-Contact...
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15""/>  
+</div>
+
+<div align="center" valign="top"><br>
+<p>I'm Learning now...</p>
+  <img align="center" alt="Js" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="git" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div><br>
 
 
-<a href="https://www.linkedin.com/in/rafael-m-8971691b8/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  ![Snake animation](https://github.com/rafaelmoura23/rafaelmoura23/blob/output/github-contribution-grid-snake.svg)
 
-
-![snake gif](https://github.com/rafaelmoura23/rafaelmoura23/blob/output/github-contribution-grid-snake.svg)
-          
 
  
 
