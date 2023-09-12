@@ -25,6 +25,14 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rafael Moura Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmoura23&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
 </p>
 
+<p align="center">
+   <a href="https://github.com/rafaelmoura23?tab=repositories">
+    <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rafaelmoura23?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
+  <a href="https://github.com/rafaelmoura23?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/epicestudar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+</p> <br>
+
 
 <div align="center" valign="top"><br>
 <h3>I'm Learning now...</h3>
