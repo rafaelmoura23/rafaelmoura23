@@ -1,23 +1,14 @@
 <div>
   <h1 align="center">
     Hi there, my name's Rafael Moura!
+    <br>
+    🚧🛠️🎯
   </h1>
 
-  <p align="center">
-   - 🔭 I’m currently working on ... <br>
-- 🌱 I’m currently learning ... <br>
-- 👯 I’m looking to collaborate on ... <br>
-- 🤔 I’m looking for help with ... <br>
-- 💬 Ask me about ... <br>
-- 📫 How to reach me: ... <br>
-- 😄 Pronouns: ... <br>
-- ⚡ Fun fact: ... <br>
-  </p>
-  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoura23&theme=blue"/>   
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoura23&theme=dracula"/>   
 </div>
 
 <p align="center">
@@ -30,7 +21,7 @@
     <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rafaelmoura23?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
   <a href="https://github.com/rafaelmoura23?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/epicestudar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rafaelmoura23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 </p> <br>
 
 
