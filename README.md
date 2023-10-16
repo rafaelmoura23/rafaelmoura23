@@ -12,8 +12,7 @@
 </div>
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rafael Moura Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmoura23&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
+    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=radical&no-bg=true&column=5&margin-w=15&margin-h=15">
 </p>
 
 <p align="center">
