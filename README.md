@@ -8,11 +8,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmoura23&theme=dracula"/>   
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoura23&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Moura github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoura23&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div> <br> <br>
 
+   <summary><h2>🏆 My Trophies</h2></summary>
 <p align="center">
-    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=radical&no-bg=true&column=5&margin-w=15&margin-h=15">
+   <img src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
