@@ -1,7 +1,21 @@
-<h1 align="center">
-    🚧🛠️🎯
-  </h1>
+<h3 align="center">
+    “A humildade é o primeiro degrau para a sabedoria” (Santo Tomás de Aquino).
+  </h3>
+<br>
 
+Atualmente estudante de `Desenvolvimento de Sistemas` e estudando `Ciência de Dados` e `Machine Learning` nas horas vagas.
+
+- 👨🏻‍💻 **Aluno** de Desenolvimento de Sistemas no SENAI
+- 
+- 🧑‍🚀 Apreciador do **universo**
+- 📖 
+- 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+    
+</div> 
+<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoura23&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Moura github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoura23&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -20,34 +34,16 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rafaelmoura23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 </p> <br>
 
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BootStrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <br>
-  
-
-
-
-
-
-          
-          
-          
-  
-
-
-
+  ### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/rafael-m-8971691b8/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/rafaelsmouras/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.kaggle.com/rafaeldesousamoura">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+</a>&nbsp;
 
   
 </div><br>
-
-
- 
-
-          
-
