@@ -6,9 +6,9 @@
 Atualmente estudante de `Desenvolvimento de Sistemas` e estudando `Ciência de Dados` e `Machine Learning` nas horas vagas.
 
 - 👨🏻‍💻 **Aluno** de Desenolvimento de Sistemas no SENAI
-- 
-- 🧑‍🚀 Apreciador do **universo**
-- 📖 
+- 🎲 `Estudante` de Ciência de Dados | Machine Learning | Deep Learning
+- 🔭 Apreciador do `universo`
+- 📖 Amante da `leitura`
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
