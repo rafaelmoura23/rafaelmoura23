@@ -1,7 +1,8 @@
 <h3 align="center">
-    “A humildade é o primeiro degrau para a sabedoria” (Santo Tomás de Aquino).
+    “A humildade é o primeiro degrau para a sabedoria” (São Tomás de Aquino) 🎯
   </h3>
 <br>
+
 
 Atualmente estudante de `Desenvolvimento de Sistemas` e estudando `Ciência de Dados` e `Machine Learning` nas horas vagas.
 
