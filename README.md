@@ -9,8 +9,10 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&repeat=false&random=false&width=435&lines=My+name+is+Rafael+Moura" alt="Typing SVG" /></a>
-</p> <br>
+</p>
 
+<h3>
+    
 Currently a `systems development` student and studying `data science` in his spare time.
 
 - 👨🏻‍💻 Systems Development `Student` at SENAI
@@ -26,10 +28,11 @@ Currently a `systems development` student and studying `data science` in his spa
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
 </div> 
+</h3>
 
 <div align="center">
     
-### Você também me encontra em:
+### You can find me at:
 &nbsp;<a href="https://www.linkedin.com/in/rafael-m-8971691b8/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
