@@ -11,13 +11,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&repeat=false&random=false&width=435&lines=My+name+is+Rafael+Moura" alt="Typing SVG" /></a>
 </p> <br>
 
-Atualmente estudante de `Desenvolvimento de Sistemas` e estudando `Ciência de Dados` e `Machine Learning` nas horas vagas.
+Currently a `systems development` student and studying `data science` in his spare time.
 
-- 👨🏻‍💻 **Aluno** de Desenolvimento de Sistemas no SENAI
-- 🎲 `Estudante` de Ciência de Dados | Machine Learning | Deep Learning
-- 🔭 Apreciador do `universo`
-- 📖 Amante da `leitura`
-- 🖥️ Atualmente mais focado em:
+- 👨🏻‍💻 Systems Development `Student` at SENAI
+- 🎲 Studying Mainly:
+    - Analysis and `Data Science`
+    - `Machine Learning`
+    - `Deep Learning`
+- 🔭 Appreciator of the `universe`
+- 📖 Lover of `reading`
+- 🔴🔵⚪ Learning French and English
+- 🖥️ Currently focused on:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
