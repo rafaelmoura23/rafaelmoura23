@@ -1,8 +1,15 @@
+<div align="center">
+<img src="https://64.media.tumblr.com/f44f2482ffa09c1d812a2103a1a6f0d3/a5b3c7afe34c35bf-fb/s1280x1920/2dfc2c67d2bd1d34405802ab1e67b1bee99dec01.gif" alt="Mario Game" width="1000" height="400"> 
+</div> <br>
+
 <h3 align="center">
     “A humildade é o primeiro degrau para a sabedoria” (São Tomás de Aquino) 🎯
   </h3>
 <br>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&repeat=false&random=false&width=435&lines=My+name+is+Rafael+Moura" alt="Typing SVG" /></a>
+</p> <br>
 
 Atualmente estudante de `Desenvolvimento de Sistemas` e estudando `Ciência de Dados` e `Machine Learning` nas horas vagas.
 
