@@ -46,6 +46,10 @@ Currently a `systems development` student and studying `data science` in his spa
 &nbsp;<a href="https://www.kaggle.com/rafaeldesousamoura">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>&nbsp;
+&nbsp;<a href="https://leetcode.com/rafaelmoura23/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
+</a>&nbsp;
+
       
 </div> 
 
@@ -53,15 +57,21 @@ Currently a `systems development` student and studying `data science` in his spa
 &nbsp;&nbsp;<a href="https://github.com/CapellaInfo">
   <img src="https://avatars.githubusercontent.com/u/148015182?s=200&v=4" width="75" height="75" >
 </a>&nbsp;
-[CapellaInfo](https://github.com/CapellaInfo)
-
 
 <br>
+
+<h3>
+    Other programming languages I study and develop:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+</div> 
+</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoura23&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Moura github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoura23&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div> <br> <br>
+
 
 
 <p align="center">
