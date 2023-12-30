@@ -45,16 +45,13 @@ Currently a `systems development` student and studying `data science` in his spa
       
 </div> 
 
-<h3>
-Check out my data science organization and check out my studies ☺️
-
+### Check out my data science organization and my studies ☺️
 &nbsp;&nbsp;<a href="https://github.com/CapellaInfo">
-  <img src="https://avatars.githubusercontent.com/u/148015182?s=200&v=4" width="100" height="100" >
+  <img src="https://avatars.githubusercontent.com/u/148015182?s=200&v=4" width="75" height="75" >
 </a>&nbsp;
 
 - [CapellaInfo](https://github.com/CapellaInfo)
 
-</h3>
 
 <br>
 
