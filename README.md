@@ -25,8 +25,12 @@ Currently a `systems development` student and studying `data science` in his spa
 - 🔴🔵⚪ Learning French and English
 - 🖥️ Currently focused on:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='100' height='35' src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </div> 
 </h3>
 
