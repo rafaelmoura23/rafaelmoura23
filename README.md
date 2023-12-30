@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&repeat=false&random=false&width=435&lines=My+name+is+Rafael+Moura" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&random=false&width=435&lines=My+name+is+Rafael+de+Sousa+Moura;I'm+a+system+development+student;I'm+20+years+old+and+a+live+in+Brazil" alt="Typing SVG" /></a>
 </p>
 
 <h3>
@@ -16,10 +16,11 @@
 Currently a `systems development` student and studying `data science` in his spare time.
 
 - 👨🏻‍💻 Systems Development `Student` at SENAI
-- 🎲 Studying Mainly:
+- 📘 Studying Mainly:
     - Analysis and `Data Science`
     - `Machine Learning`
     - `Deep Learning`
+- 🎲 See my data science organization and my studies ➡️ **[CapellaInfo](https://github.com/CapellaInfo)**
 - 🔭 Appreciator of the `universe`
 - 📖 Lover of `reading`
 - 🔴🔵⚪ Learning French and English
@@ -49,23 +50,17 @@ Currently a `systems development` student and studying `data science` in his spa
 &nbsp;<a href="https://leetcode.com/rafaelmoura23/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
 </a>&nbsp;
-
-      
+    
 </div> 
 
-### Check out my data science organization and my studies ☺️
-&nbsp;&nbsp;<a href="https://github.com/CapellaInfo">
-  <img src="https://avatars.githubusercontent.com/u/148015182?s=200&v=4" width="75" height="75" >
-</a>&nbsp;
-
-<br>
-
-<h3>
-    Other programming languages I study and develop:
+### Other programming languages and frameworks I study and develop:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
+    
 </div> 
-</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoura23&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Moura github stats" /> 
@@ -86,4 +81,4 @@ Currently a `systems development` student and studying `data science` in his spa
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rafaelmoura23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 </p> <br>
 
-</div><br>
+</div>
