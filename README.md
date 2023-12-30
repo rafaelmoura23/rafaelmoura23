@@ -49,8 +49,7 @@ Currently a `systems development` student and studying `data science` in his spa
 &nbsp;&nbsp;<a href="https://github.com/CapellaInfo">
   <img src="https://avatars.githubusercontent.com/u/148015182?s=200&v=4" width="75" height="75" >
 </a>&nbsp;
-
-- [CapellaInfo](https://github.com/CapellaInfo)
+[CapellaInfo](https://github.com/CapellaInfo)
 
 
 <br>
