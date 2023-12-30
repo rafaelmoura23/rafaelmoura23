@@ -30,7 +30,7 @@ Currently a `systems development` student and studying `data science` in his spa
 </div> 
 </h3>
 
-<div align="center">
+<div>
     
 ### You can find me at:
 &nbsp;<a href="https://www.linkedin.com/in/rafael-m-8971691b8/">
@@ -44,6 +44,17 @@ Currently a `systems development` student and studying `data science` in his spa
 </a>&nbsp;
       
 </div> 
+
+<h3>
+Check out my data science organization and check out my studies ☺️
+
+&nbsp;&nbsp;<a href="https://github.com/CapellaInfo">
+  <img src="https://avatars.githubusercontent.com/u/148015182?s=200&v=4" width="100" height="100" >
+</a>&nbsp;
+
+- [CapellaInfo](https://github.com/CapellaInfo)
+
+</h3>
 
 <br>
 
