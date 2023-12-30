@@ -3,7 +3,7 @@
 </div> <br>
 
 <h3 align="center">
-    “A humildade é o primeiro degrau para a sabedoria” (São Tomás de Aquino) 🎯
+    “Ora Et Labora” (São Bento) 🎯
   </h3>
 <br>
 
