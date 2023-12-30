@@ -59,15 +59,12 @@ Currently a `systems development` student and studying `data science` in his spa
   &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
-    
-</div> 
+</div> <br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmoura23&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Moura github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoura23&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div> <br> <br>
-
-
+</div> <br> 
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
