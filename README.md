@@ -17,7 +17,7 @@ Currently a `systems development` student and studying `data science` in his spa
 
 - 👨🏻‍💻 Systems Development `Student` at SENAI
 - 📘 Studying Mainly:
-    - Analysis and `Data Science`
+    - `Analysis` and `Data Science`
     - `Machine Learning`
     - `Deep Learning`
 - 🎲 See my data science organization and my studies ➡️ **[CapellaInfo](https://github.com/CapellaInfo)**
@@ -27,7 +27,7 @@ Currently a `systems development` student and studying `data science` in his spa
 - 🖥️ Currently focused on:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='100' height='35' src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<!--   &nbsp;&nbsp;<img width='100' height='35' src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />&nbsp;&nbsp;&nbsp; -->
   &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='130' height='35' src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -41,14 +41,14 @@ Currently a `systems development` student and studying `data science` in his spa
 &nbsp;<a href="https://www.linkedin.com/in/rafael-m-8971691b8/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/rafaelsmouras/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
 &nbsp;<a href="https://www.kaggle.com/rafaeldesousamoura">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://leetcode.com/rafaelmoura23/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/rafaelsmouras/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
     
 </div> 
