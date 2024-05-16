@@ -77,5 +77,11 @@ Currently a `systems development` student and studying `data science` in his spa
   <a href="https://github.com/rafaelmoura23?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rafaelmoura23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 </p> <br>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelmoura23&radius=16&theme=nord&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 
 </div>
+
+###
