@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&random=false&width=435&lines=My+name+is+Rafael+de+Sousa+Moura;I'm+a+system+development+student;I'm+20+years+old+and+a+live+in+Brazil" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&random=false&width=435&lines=My+name+is+Rafael+de+Sousa+Moura;I'm+a+system+development+student;I'm+20+years+old+and+I+live+in+Brazil" alt="Typing SVG" /></a>
 </p>
 
 <h3>
