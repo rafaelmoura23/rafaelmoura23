@@ -39,6 +39,7 @@ Currently a `systems development` student and studying `data science` in his spa
 &nbsp;<a href="https://leetcode.com/rafaelmoura23/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
 </a>&nbsp;
+
 </div> 
 
 <div align="center">
