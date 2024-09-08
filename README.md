@@ -52,5 +52,13 @@ Currently a `systems development` student and studying `data science` in his spa
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rafaelmoura23&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
-
 </div>
+
+
+<details open>
+ <summary><h2>📊Estatísticas do Perfil</h2></summary>
+  <a href="https://github.com/rafaelmoura23">
+      <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+      <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
+    </a> <br> <br>
+</details>
