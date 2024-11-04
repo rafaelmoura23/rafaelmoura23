@@ -99,3 +99,15 @@ Check out my data science projects and ongoing studies at [CapellaInfo](https://
 ![Profile Views](https://komarev.com/ghpvc/?username=rafaelmoura23&color=00bfbf&style=flat-square)
 
 </div>
+
+<div>
+  
+  <a href="https://github.com/rafaelmoura23">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg">
+      <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width="98%" alt="3D Profile Custom View"/>
+    </picture>
+  </a>
+  <br><br>
+
+</div>
