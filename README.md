@@ -12,7 +12,7 @@
 
 ## 👨‍🚀 About Me
 
-> 
+> "Beauty is the mark of what is well made, whether it is a universe or an object." - St. Thomas Aquinas
 
 I'm a passionate Data Science student at UNIVESP with a deep interest in the intersection of technology and scientific discovery. Currently pursuing Systems Development at SENAI, I dedicate my time to exploring the vast universe of data and its applications in solving real-world problems.
 
