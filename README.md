@@ -81,9 +81,8 @@ I'm a passionate Data Science student at UNIVESP with a deep interest in the int
 
 Check out my data science projects and ongoing studies at [CapellaInfo](https://github.com/CapellaInfo)
 
-<details>
-<summary>🌟 Current Learning Path</summary>
 
+🌟 Current Learning Path
 - Advanced Machine Learning Algorithms
 - Deep Learning & Neural Networks
 - Big Data Processing
@@ -91,7 +90,7 @@ Check out my data science projects and ongoing studies at [CapellaInfo](https://
 - Astrophysics & Cosmology
 - Quantum Computing Fundamentals
 
-</details>
+
 
 ---
 
